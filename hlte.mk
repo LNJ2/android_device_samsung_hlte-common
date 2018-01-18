@@ -68,8 +68,8 @@ PRODUCT_PACKAGES += \
     FlipFlap
 
 # Gestures
-PRODUCT_PACKAGES += \
-    com.cyanogenmod.keyhandler
+#PRODUCT_PACKAGES += \
+#    com.cyanogenmod.keyhandler
 
 # GPS
 PRODUCT_PACKAGES += \
